@@ -25,6 +25,7 @@ I’m eager to contribute technical acumen, a continuous learning mindset, and p
 
 - Location: Hyderabad, Telangana, India
 - GitHub: https://github.com/gprasadk86
+- LinkedIn: https://www.linkedin.com/in/kguruprasad0806
 
 <!--
 Tips: Add links to your LinkedIn, email, blog, or resume here to make it easy for people to reach you.
