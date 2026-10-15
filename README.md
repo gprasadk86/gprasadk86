@@ -30,4 +30,4 @@ I’m eager to contribute technical acumen, a continuous learning mindset, and p
 
 ---
 
-✨ Open to collaborations, mentorship, and new opportunities — let’s connect! ✉️ k.guruprasad@protonmail.com
+✨ Open to collaborations, mentorship, and new opportunities — let’s connect!
