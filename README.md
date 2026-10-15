@@ -1,6 +1,6 @@
 # Hi — I'm K Guruprasad 👋
 
-I’m an experienced operations and technical professional based in Hyderabad, Telangana, with 12+ years of experience across GIS operations, 2D AutoCAD drafting, and technical administration. I currently serve as an Assistant Manager and am actively transitioning into Enterprise Networking, Cloud Security, and Systems Administration.
+I’m an experienced management and technical professional based in Hyderabad, Telangana, with 12+ years of experience in management and technical administration. I currently serve as an Assistant Manager and I’m looking to transition into the cloud, networking, and security domains.
 
 I bridge operational experience with enterprise IT and security through hands-on lab environments, self-directed study, and industry certifications.
 
