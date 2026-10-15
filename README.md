@@ -17,10 +17,6 @@ I bridge operational experience with enterprise IT and security through hands-on
 - Enterprise Networking: Routing & Switching, TCP/IP, VPNs, Subnetting, and Network Security Architecture
 - Systems Administration: Windows Server Administration, Linux fundamentals, and infrastructure automation
 
-## Current Learning & Education
-
-- Pursuing an Online BCA (Bachelor of Computer Applications) from Amity University
-
 ## What I’m looking for
 
 I’m eager to contribute technical acumen, a continuous learning mindset, and practical troubleshooting skills to engineering and security teams focused on cloud security, enterprise networking, and systems administration.
