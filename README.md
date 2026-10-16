@@ -1,6 +1,6 @@
 # Hi — I'm K Guruprasad 👋🚀
 
-I’m an experienced management and technical professional based in Hyderabad, Telangana. I currently serve as an Assistant Manager and I’m looking to transition into the cloud, networking, and security domains. 🧭☁️🌐🔒
+I’m an experienced management and technical professional based in Hyderabad, Telangana. I currently serve as an Assistant Manager and I’m looking to transition into the cloud, networking, and security domains.
 
 I bridge management experience with enterprise IT and security through hands-on lab environments, self-directed study, and industry certifications. ⚙️✨
 
@@ -8,8 +8,9 @@ I bridge management experience with enterprise IT and security through hands-on 
 
 - 🛜 Networking & Infrastructure: Cisco CCNA (200-301), Cisco CyberOps Associate (200-201), Microsoft MCSA, Microsoft AZ-104 (Azure Administrator)  
 - ☁️ Cloud & Security Architecture: Microsoft AZ-500 (Azure Security Engineer), Microsoft AZ-700 (Azure Network Engineer), ISC2 Certified in Cybersecurity (CC)  
-- 🛡️ Security Operations & Identity: Microsoft SC-200 (Security Operations Analyst), Microsoft SC-300 (Identity and Access Administrator), Microsoft SC-401 (Information Protection Administrator), Google Cybersecurity Professional  
-- 🎓 Project Management & Education: Google Project Management, Cisco Networking Academy Instructor
+- 🛡️ Security Operations & Identity: Microsoft SC-200 (Security Operations Analyst), Microsoft SC-300 (Identity and Access Administrator), Microsoft SC-401 (Information Protection Administrator)  
+- 🎓 Project Management & Education: Google Project Management
+- 🏅 Credentials & Affiliations: Cisco Networking Academy Instructor — Affiliated through OUS Cisco ASC/ITC.
 
 ## 💡 Technical Focus Areas
 
@@ -19,7 +20,7 @@ I bridge management experience with enterprise IT and security through hands-on 
 
 ## 🎯 What I’m looking for
 
-I’m eager to contribute technical acumen, a continuous learning mindset, and practical troubleshooting skills to engineering and security teams focused on cloud security, enterprise networking, and systems administration. 🚀
+I’m eager to contribute technical acumen, a continuous learning mindset, and practical troubleshooting skills to engineering and security teams focused on cloud security, enterprise networking, and infrastructure.
 
 ## 📫 Contact
 
