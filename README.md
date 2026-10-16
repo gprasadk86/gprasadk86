@@ -7,7 +7,7 @@ I bridge management experience with enterprise IT and security through hands-on 
 ## 🔖 Core Certifications & Credentials
 
 - 🛜 Networking & Infrastructure: Cisco CCNA (200-301), Cisco CyberOps Associate (200-201), Microsoft MCSA, Microsoft AZ-104 (Azure Administrator)  
-- ☁️ Cloud & Security Architecture: Microsoft AZ-500 (Azure Security Engineer), Microsoft AZ-700 (Azure Network Engineer), ISC2 Certified in Cybersecurity (CC)  
+- ☁️ Cloud & Security Architecture: Microsoft AZ-500 (Azure Security Engineer), Microsoft AZ-700 (Azure Network Engineer), ISC2 Certified in Cybersecurity (CC), Google Cybersecurity Professional  
 - 🛡️ Security Operations & Identity: Microsoft SC-200 (Security Operations Analyst), Microsoft SC-300 (Identity and Access Administrator), Microsoft SC-401 (Information Protection Administrator)  
 - 🎓 Project Management & Education: Google Project Management
 - 🏅 Credentials & Affiliations: Cisco Networking Academy Instructor — Affiliated through OUS Cisco ASC/ITC.
